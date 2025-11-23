@@ -1,5 +1,12 @@
 CodTech Data Analysis Internship – Task Submissions
 
+Company: CodTech IT Solutions
+Name: Nikhat Fatema Ejaz Shaikh
+Intern ID: N13
+Domain: Data Analysis
+Duration: 4 Weeks
+Mentor: Muzammil
+
 This repository contains all four tasks completed as part of the CodTech Data Analysis Internship.
 All tasks were executed in Google Colab with clean, reproducible code and clear outputs.
 
